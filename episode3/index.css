@@ -1,0 +1,17 @@
+.header{
+display: flex;
+justify-content: space-between;
+align-items: center;
+background-color: darkgrey;
+padding:0 10px;
+}
+
+.header input{
+  height: 30px;
+  width: 400px;
+  border-style: none;
+}
+
+body{
+  margin: 0;
+}
